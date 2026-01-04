@@ -14,8 +14,8 @@ Pastikan perangkat Anda memenuhi persyaratan berikut:
    ```bash
    npm install
 5. Jalankan project:
-6. ```bash
+   ```bash
    npm run serve
-7. Buka browser dan akses:
-8. ```bash
+6. Buka browser dan akses:
+   ```bash
    http://localhost:8080/
