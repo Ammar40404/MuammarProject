@@ -1,5 +1,3 @@
-# Muammar_PT.SGT
-
 ## System Requirements
 Pastikan perangkat Anda memenuhi persyaratan berikut:
 - Node.js v18.12.0
